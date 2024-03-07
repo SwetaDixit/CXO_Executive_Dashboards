@@ -18,7 +18,9 @@ I have created Power BI Dashboard and Performance scorecard for each department.
   3. Employee engagement
   4. Customer satisfaction
 
+![image](https://github.com/SwetaDixit/CXO_Executive_Dashboards/assets/143870019/e7454fb2-16af-480a-8eda-990cce09989f)
 
+![image](https://github.com/SwetaDixit/CXO_Executive_Dashboards/assets/143870019/1d93fbef-e0c6-4b6f-95c3-f7954a1bc6ae)
 
 
 
@@ -34,7 +36,9 @@ I have created Power BI Dashboard and Performance scorecard for each department.
   2. Cost of goods sold (COGS)
   3. Inventory turnover rate
 
+![image](https://github.com/SwetaDixit/CXO_Executive_Dashboards/assets/143870019/d9a6edc6-a768-4ca8-acda-5501b1c1ebdd)
 
+![image](https://github.com/SwetaDixit/CXO_Executive_Dashboards/assets/143870019/73d4c621-787b-4995-bb58-930f49036847)
 
 
 
